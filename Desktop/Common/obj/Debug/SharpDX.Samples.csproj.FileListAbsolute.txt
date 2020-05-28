@@ -1,0 +1,2 @@
+E:\UserProfile\ArchiveCunDang\ProgrammingArea\C#Projects\Samples\SharpDX-Samples-f4fb0fe0f12e3edc4eda3f6307d135a66fa172cd\Desktop\Common\obj\Debug\SharpDX.Samples.csprojAssemblyReference.cache
+E:\UserProfile\ArchiveCunDang\ProgrammingArea\C#Projects\Samples\SharpDX-Samples-f4fb0fe0f12e3edc4eda3f6307d135a66fa172cd\Desktop\Common\obj\Debug\SharpDX.Samples.csproj.CoreCompileInputs.cache
